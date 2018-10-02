@@ -1,0 +1,179 @@
+*{
+
+	margin: 0px;
+	font-family: 'work sans';
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.pala{
+	width: 80%;
+	margin:auto;
+	margin-top: 50PX;
+	font-size: 18PX;
+	margin-bottom: 100px;
+}
+
+.logo{
+	width: 50%;
+
+}
+.menu{
+	width: 50%;
+	float: right;
+	list-style: none;
+	padding: 0px;
+	margin-top: -20px;
+}
+
+.menu li{
+	float: right;
+	margin-right: 30px;
+}
+
+.menu li a{
+	color: black;
+	text-decoration: none;
+}
+
+.bigt{
+	margin-top: 200px;
+	
+}
+
+.bigt p{
+
+	margin: 0 auto;
+	width: 70%;
+	font-size: 31px;
+	text-align: center;
+	line-height: 2;
+	letter-spacing: 2px;
+}
+
+.vertical {
+	font-size: 70px;
+	font-weight: lighter;
+margin: 50px auto 30px auto;
+width: 60%;
+height: 40px;
+position: relative;
+text-align: center;
+}
+
+.see{
+	margin: 50px auto 30px auto;
+width: 60%;
+height: 40px;
+text-align: center;
+}
+
+.porto{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.porto .poto{
+	width: 32%;
+	height: 250px;
+	
+	float: left;
+	margin-top: 20px;
+}
+
+.porto div p{
+	position: absolute;
+	text-align: center;
+	margin-top: 19px;
+	background-color: #2c3e50;
+	color: white;
+	padding-top: 95px;
+	padding-left: 25px;
+	padding-right: 25px;
+	width: 295px;
+	height: 155px;
+	font-size: 20px;
+	opacity: 0;
+	transition: 0.2s;
+}
+
+.porto div p:hover{
+	opacity: 0.9;
+}
+
+.birutua{
+	color: #2c3e50;
+}
+
+
+
+
+
+footer{
+
+	width: 80%;
+	margin:1100px auto 0px auto;
+
+}
+
+.about{
+	width: 80%;
+	
+}
+.title{
+	font-size: 22px;
+}
+.isi{
+	letter-spacing: 2px;
+	margin-top: 50px;
+	font-size: 16px;
+	line-height: 2;
+}
+
+.contact{
+	width: 20%;
+	float: right;
+}
+
+.marg{
+	margin-top: -170px;
+
+}
+
+.kanan{
+
+	letter-spacing: 2px;
+	margin-top: 20px;
+	font-size: 16px;
+	line-height: 4;	
+}
+
+.social{
+	margin-top: 120px;
+	padding-bottom: 160px;
+}
+
+.ad{
+	width: 70%;
+}
+
+.icon{
+	text-align: right;
+	margin-top: -18px;
+	
+}
+
+.icon ul li{
+	margin-right: 50px;
+}
+
+.gotop{
+
+	border-color: black;
+	position: fixed;
+	top: 650px;
+	margin-left: 1400px;
+	font-size: 36px;
+}
